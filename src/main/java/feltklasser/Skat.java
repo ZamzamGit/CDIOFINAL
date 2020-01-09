@@ -1,8 +1,10 @@
 package feltklasser;
 
 public class Skat extends Felt {
-
-    public Skat(String navn) {
+private int værdi;
+    public Skat(String navn, int værdi) {
         super(navn);
+        this.værdi=værdi;
+
     }
 }
