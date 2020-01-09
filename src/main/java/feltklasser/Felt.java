@@ -1,8 +1,8 @@
 package feltklasser;
 
-public class Felt {
+public abstract class Felt {
 
-    private String navn;
+    public String navn;
 
     public Felt(String navn) {
         this.navn = navn;

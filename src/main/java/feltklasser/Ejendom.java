@@ -6,6 +6,7 @@ public class Ejendom extends Felt {
     private int værdi;
     private Spiller ejer;
 
+
     public Ejendom(String navn, int værdi) {
         super(navn);
         this.værdi = værdi;
