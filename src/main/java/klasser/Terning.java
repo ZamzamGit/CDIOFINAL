@@ -13,4 +13,8 @@ public class Terning {
         øjneVærdi = (int) (Math.random() * MAX) + 1;
         return øjneVærdi;
     }
+
+    public int getØjneVærdi() {
+        return øjneVærdi;
+    }
 }
