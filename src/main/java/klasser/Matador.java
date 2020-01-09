@@ -14,7 +14,7 @@ public class Matador {
 
     public void rykSpiller() {
 
-        int a;
+        int b;
 
 
 
