@@ -1,5 +1,5 @@
 package feltklasser;
-import klasser.Spiller;
+import main.klasser.Spiller;
 
 public class Ejendom extends Felt {
 

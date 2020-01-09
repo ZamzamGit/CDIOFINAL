@@ -1,4 +1,4 @@
-package klasser;
+package main.klasser;
 
 import feltklasser.Felt;
 

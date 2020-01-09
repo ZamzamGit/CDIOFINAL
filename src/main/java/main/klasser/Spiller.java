@@ -1,4 +1,4 @@
-package klasser;
+package main.klasser;
 
 public class Spiller {
 
